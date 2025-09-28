@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Start
+  - Button
+  - Buff
+  - Trap
+  - Goal
+  - How
+  - Close
+  - KeyItem
+  - KeyCount
+  - KeyCountFull
+  - Setting
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Map
+  - Item
+  - Setting
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 1293445469
+    locked: 0
+  - name: Item
+    uniqueID: 110463155
+    locked: 0
+  - name: Player
+    uniqueID: 796367535
+    locked: 0
+  - name: UI
+    uniqueID: 2743091741
+    locked: 0
+  - name: Setting
+    uniqueID: 2340123325
+    locked: 0
