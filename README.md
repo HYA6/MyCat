@@ -47,7 +47,7 @@
 <br/>
 
 ## ▶ 실행 방법
-- 게임 다운로드 후 압출 풀면 게임 실행 파일(.exe)을 실행하면 됩니다.
+- 게임 다운로드 -> 압축 해제 -> 게임 실행파일(.exe) 실행
 - [[게임 다운로드]](https://drive.google.com/file/d/13IkvG3J6KnkiOf5Fvvi3BiEADWtLkdPi/view?usp=drive_link) - 구글 드라이브 연결
 <br/>
 
