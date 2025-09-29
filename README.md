@@ -43,7 +43,7 @@
   ┗ 09. TextMesh Pro/ <br/>
 
 ### 게임 진행 플로우차트  
-<img width="500" alt="Image" src="https://github.com/user-attachments/assets/1606ae48-01e7-4753-9123-80af50a58c9c"/>
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/0805afda-8180-450d-ae72-eb360e1a1f70" />
 <br/>
 
 ## ▶ 실행 방법
