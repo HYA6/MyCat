@@ -42,6 +42,9 @@
   ┣ 08. UI/ <br/>
   ┗ 09. TextMesh Pro/ <br/>
 
+### 게임 진행 플로우차트  
+<img width="738" height="693" alt="Image" src="https://github.com/user-attachments/assets/1606ae48-01e7-4753-9123-80af50a58c9c" width="200"/>
+
 <br/>
 
 ## ▶ 실행 방법
@@ -50,6 +53,10 @@
 <br/>
 
 ## 🎥 시연 자료 및 상세 개발 과정
+- 시연 스크린샷 1
+  <img width="933" height="776" alt="Image" src="https://github.com/user-attachments/assets/0e1b6275-73b7-49e1-88ff-bb286704c75c" width="200"/>
+- 시연 스크린샷 2
+  <img width="931" height="776" alt="Image" src="https://github.com/user-attachments/assets/76c895c9-cceb-44f1-a940-318cbd4c29e8" width="200"/>
 - [시연 영상 보기](https://youtu.be/33nC4d52ktU) - 유튜브 연결
 - [개발 과정](https://hya68.tistory.com/8) - 블로그 연결
 <br/>
