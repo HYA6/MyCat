@@ -1,5 +1,7 @@
 # :cat: MyCat
 
+<img width="250" alt="Image" src="https://github.com/user-attachments/assets/b1403c8e-b7f4-41a9-83a3-c71db1146e67" />
+
 ## 📌 개요
 - **장르**: 퍼즐
 - **게임 소개**: 단순 타임어택 미로찾기 게임, 각 스테이지별로 요구하는 구슬을 획득하면 다음 스테이지로 넘어갈 수 있는 게임
