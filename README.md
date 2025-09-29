@@ -4,7 +4,7 @@
 - **장르**: 퍼즐
 - **게임 소개**: 단순 타임어택 미로찾기 게임, 각 스테이지별로 요구하는 구슬을 획득하면 다음 스테이지로 넘어갈 수 있는 게임
 - **플랫폼**: Unity 2D (PC)
-- **개발 기간**: 2024.08
+- **개발 기간**: 2024.08.02 - 2024.08.30
 - **개발 인원**: 1인
 - **목적**: 게임 개발 입문
 <br/>
@@ -43,8 +43,7 @@
   ┗ 09. TextMesh Pro/ <br/>
 
 ### 게임 진행 플로우차트  
-<img width="738" height="693" alt="Image" src="https://github.com/user-attachments/assets/1606ae48-01e7-4753-9123-80af50a58c9c" width="200"/>
-
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/1606ae48-01e7-4753-9123-80af50a58c9c"/>
 <br/>
 
 ## ▶ 실행 방법
@@ -53,10 +52,10 @@
 <br/>
 
 ## 🎥 시연 자료 및 상세 개발 과정
-- 시연 스크린샷 1
-  <img width="933" height="776" alt="Image" src="https://github.com/user-attachments/assets/0e1b6275-73b7-49e1-88ff-bb286704c75c" width="200"/>
-- 시연 스크린샷 2
-  <img width="931" height="776" alt="Image" src="https://github.com/user-attachments/assets/76c895c9-cceb-44f1-a940-318cbd4c29e8" width="200"/>
+- 시연 스크린샷 1 <br/>
+  <img width="500" alt="Image" src="https://github.com/user-attachments/assets/0e1b6275-73b7-49e1-88ff-bb286704c75c"/>
+- 시연 스크린샷 2 <br/>
+  <img width="500" alt="Image" src="https://github.com/user-attachments/assets/76c895c9-cceb-44f1-a940-318cbd4c29e8"/>
 - [시연 영상 보기](https://youtu.be/33nC4d52ktU) - 유튜브 연결
 - [개발 과정](https://hya68.tistory.com/8) - 블로그 연결
 <br/>
